@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@matthewgcampbell"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/MatthewGCampbell/molekule-air-api",
+  "domain": "molekule_air",
+  "iot_class": "cloud_polling",
+  "name": "Molekule",
+  "requirements": ["pycognito=2021.3.1"],
+  "version": "0.0.1"
+}
